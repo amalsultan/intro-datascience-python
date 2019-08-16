@@ -1,5 +1,6 @@
-import pandas as pd
+# import pandas as pd
 import numpy as np
+import pandas as pd
 
 
 class Question1:
@@ -45,6 +46,7 @@ class Question1:
 if __name__ == "__main__":
     # load_energy_data()
     question = Question1()
+    print("ffff")
     question.join_data()
     
 
